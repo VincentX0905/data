@@ -32,5 +32,9 @@
     "ge.settings.bindings.emote2": "表情 2",
     "ge.settings.bindings.emote3": "表情 3",
     "ge.settings.bindings.emote4": "表情 4",
-    "ge.settings.debug.header": "除非您知道自己在做什麼，否則請勿更改此處的設定!"
+    "ge.settings.debug.header": "除非您知道自己在做什麼，否則請勿更改此處的設定!",
+    "ge.settings.bindings.actions.next_locked_perspective": "下一個鎖定視角",
+    "ge.settings.bindings.actions.platform_list": "平台列表",
+    "ge.settings.bindings.actions.open_ge_menu": "開啟 /{ge.menu}/",
+    "ge.settings.video.lockedCameraPerspective": "鎖定視角"
 }
